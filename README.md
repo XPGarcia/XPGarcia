@@ -4,8 +4,8 @@
 ## Skills:
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
 ![Angular](https://img.shields.io/badge/Angular-b52e31?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)
-![React](https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)
-![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=HTML&logoColor=white&labelColor=101010)</br>
+![React](https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)</br>
+![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=HTML&logoColor=white&labelColor=101010)
 ![CSS](https://img.shields.io/badge/CSS-0f5298?style=for-the-badge&logo=CSS&logoColor=white&labelColor=101010)</br>
 </br>
 
