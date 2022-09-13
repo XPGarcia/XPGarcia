@@ -17,7 +17,8 @@
 ## Projects:
 
 [Livet Medical center](https://master.d2xu9q6nxzpr9j.amplifyapp.com/login)
-[Proalco] (https://www.proalco.com/inicio)
+</br>
+[Proalco](https://www.proalco.com/inicio)
 
 ## Learning:
 ![Nestjs](https://img.shields.io/badge/Nestjs-e0234e?style=for-the-badge&logo=nest_js&logoColor=white&labelColor=101010)</br>
@@ -26,4 +27,4 @@
 ## Find me at:
 
 ### Spanish
-![LinkedIn](https://img.shields.io/badge/LinkedIn-#006192?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/xavier-garc%C3%ADa-ba%C3%B1o-244b60245)
+[LinkedIn](https://www.linkedin.com/in/xavier-garc%C3%ADa-ba%C3%B1o-244b60245)
