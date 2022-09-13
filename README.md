@@ -17,7 +17,7 @@
 ## Projects:
 
 [Livet Medical center](https://master.d2xu9q6nxzpr9j.amplifyapp.com/login)
-</br>
+</br></br>
 [Proalco](https://www.proalco.com/inicio)
 
 ## Learning:
@@ -26,5 +26,4 @@
 
 ## Find me at:
 
-### Spanish
 [LinkedIn](https://www.linkedin.com/in/xavier-garc%C3%ADa-ba%C3%B1o-244b60245)
