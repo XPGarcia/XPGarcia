@@ -2,7 +2,7 @@
 ### I'm a Software Developer
 
 ## Skills:
-![JavaScript](https://img.shields.io/badge/JavaScript-0095D5?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)</br>
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)</br>
 ![Nodejs](https://img.shields.io/badge/Nodejs-0095D5?style=for-the-badge&logo=nodejs&logoColor=white&labelColor=101010)</br>
 ![Angular](https://img.shields.io/badge/Angular-0095D5?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)
 ![React](https://img.shields.io/badge/React-0095D5?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)</br>
