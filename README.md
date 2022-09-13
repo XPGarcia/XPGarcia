@@ -5,8 +5,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)</br>
 ![Angular](https://img.shields.io/badge/Angular-b52e31?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)
 ![React](https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)</br>
-![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)</br>
-![CSS](https://img.shields.io/badge/CSS-0f5298?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)</br>
+![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=HTML&logoColor=white&labelColor=101010)</br>
+![CSS](https://img.shields.io/badge/CSS-0f5298?style=for-the-badge&logo=CSS&logoColor=white&labelColor=101010)</br>
 </br>
 
 ![Nodejs](https://img.shields.io/badge/Nodejs-3c873a?style=for-the-badge&logo=node_js&logoColor=white&labelColor=101010)</br>
@@ -26,4 +26,4 @@
 ## Find me at:
 
 ### Spanish
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-#006192?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/xavier-garc%C3%ADa-ba%C3%B1o-244b60245)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-#006192?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/xavier-garc%C3%ADa-ba%C3%B1o-244b60245)
