@@ -16,7 +16,7 @@
 
 ## Projects:
 
-[Livet Medical center](https://master.d2xu9q6nxzpr9j.amplifyapp.com/login)
+[Livet Medical center](https://master.d2xu9q6nxzpr9j.amplifyapp.com/)
 </br></br>
 [Proalco](https://www.proalco.com/inicio)
 </br><br>
@@ -28,4 +28,5 @@
 
 ## Find me at:
 
-[LinkedIn](https://www.linkedin.com/in/xavier-garc%C3%ADa-ba%C3%B1o-244b60245)
+[xaviergarcia.dev](https://www.xaviergarcia.dev/)
+[LinkedIn](https://www.linkedin.com/in/xavier-garcia-bano-244b60245/)
