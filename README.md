@@ -29,4 +29,5 @@
 ## Find me at:
 
 [xaviergarcia.dev](https://www.xaviergarcia.dev/)
+</br></br>
 [LinkedIn](https://www.linkedin.com/in/xavier-garcia-bano-244b60245/)
